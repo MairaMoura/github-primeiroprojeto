@@ -1,5 +1,3 @@
-# PRIMERIO ARQUIVO ADICIONADO
+# Alterando primerio arquivo várias vezes.
 
-Modificando arquivo
-
-Modificando novamente
+O arquivo voltou o commit
